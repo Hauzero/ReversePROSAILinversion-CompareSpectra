@@ -1,0 +1,11 @@
+Variable,Minimum,Maximum,Mode,Std,Nb_Class,Law
+LAI,0,15,2,3,6,Gauss
+ALA,30,80,60,30,3,gauss
+Hot,0.1,0.5,0.2,0.5,1,gauss
+N,1.2,2.2,1.5,0.3,3,gauss
+Cab,20,90,45,30,4,gauss
+"
+Cdm",0.003,0.011,0.005,0.005,4,gauss
+Cw_Rel,0.6,0.85,0.75,0.8,4,uni
+Cbp,0,2,0,0.3,3,gauss
+Soil-BS,0.5,3.5,1.2,2,4,gauss
